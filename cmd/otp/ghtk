@@ -1,0 +1,4 @@
+{
+  "cmd": "bash",
+  "inputs": ["/home/ubuntu/scripts/otp_ghtk_me.sh"]
+}
