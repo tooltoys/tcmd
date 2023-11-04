@@ -18,3 +18,23 @@ Create file/folder trong folder cmd với định dạng:
 ```
 
 Trong đó cmd là command muốn chạy, inputs là các inputs cho command đó.
+
+## Install
+
+**From Source**
+
+```bash
+git clone git@github.com:tooltoys/tcmd.git
+```
+
+**CURL**
+
+**Distro**
+
+**Docker**
+
+## Run
+
+```bash
+./run
+```
