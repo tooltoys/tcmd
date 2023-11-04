@@ -31,7 +31,7 @@ func Tree() {
 		for _, file := range files {
 			fileName := file.Name()
 			if file.IsDir() {
-				fileName = fmt.Sprintf("%s %s", "[]", file.Name())
+				fileName = fmt.Sprintf("%s %s", "📁", file.Name())
 			} else {
 				fileName = fmt.Sprintf("%s %s ", "</>", file.Name())
 			}
